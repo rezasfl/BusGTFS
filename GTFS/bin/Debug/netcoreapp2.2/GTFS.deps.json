@@ -1,0 +1,121 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "6719b67773eb934c880981c9b7796ba24780426d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "GTFS/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "12.1.2",
+          "GtfsNet": "1.0.0",
+          "LumenWorksCsvReader": "4.0.0"
+        },
+        "runtime": {
+          "GTFS.dll": {}
+        }
+      },
+      "CsvHelper/12.1.2": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.4.0",
+          "System.Reflection.TypeExtensions": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CsvHelper.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.0.0"
+          }
+        }
+      },
+      "Ensure.That/3.2.0": {
+        "runtime": {
+          "lib/net46/EnsureThat.vNext.dll": {
+            "assemblyVersion": "3.2.0.39289",
+            "fileVersion": "3.2.0.39289"
+          }
+        }
+      },
+      "GtfsNet/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "12.1.2",
+          "Ensure.That": "3.2.0",
+          "xunit.runner.visualstudio": "2.1.0"
+        },
+        "runtime": {
+          "lib/net452/GtfsNet.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LumenWorksCsvReader/4.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/LumenWorks.Framework.IO.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.4.0": {},
+      "System.Reflection.TypeExtensions/4.4.0": {},
+      "xunit.runner.visualstudio/2.1.0": {}
+    }
+  },
+  "libraries": {
+    "GTFS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvHelper/12.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AZpm8I3MK4TEQtTy3Nv30EFQFi3MZC4OW0MXZ8PfgGrfWR6Ivvd+DhD1n2qEfgQ2jbxUSKQs2OUBc9Ue//0gBQ==",
+      "path": "csvhelper/12.1.2",
+      "hashPath": "csvhelper.12.1.2.nupkg.sha512"
+    },
+    "Ensure.That/3.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ghas/bepRbNOOtOL6Vc0y7dhrSB3T5x5aMt4342Suj8kW/jaWfiYnirZSNB7Xoz5ZYN9NTDHF8gJGcvhtCnQNQ==",
+      "path": "ensure.that/3.2.0",
+      "hashPath": "ensure.that.3.2.0.nupkg.sha512"
+    },
+    "GtfsNet/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R1HxndiwokiKdgwGjFiN91YdClqV0xVJaJH8FvvK4FKn1x8lNC599DRK4stup8ZLV+QRM9BNpwH0ZPsgV2VwSA==",
+      "path": "gtfsnet/1.0.0",
+      "hashPath": "gtfsnet.1.0.0.nupkg.sha512"
+    },
+    "LumenWorksCsvReader/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s6GMLdiyPZUNYqdPiNb8u++/EjiWJ2zu2DtrbpfaRuWPjd3pwh9mXT2AgFgmZFZIUU9B/6FzWGOmMXYCi4ty/A==",
+      "path": "lumenworkscsvreader/4.0.0",
+      "hashPath": "lumenworkscsvreader.4.0.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Mg7IqHdgGsyeXSApz85limYBHCUk4dQF4EPnSqcIfFiFA2C6bH4jdtYTsLeYnRN03BkPlNHXtbwlzGn8ASq8LA==",
+      "path": "microsoft.csharp/4.4.0",
+      "hashPath": "microsoft.csharp.4.4.0.nupkg.sha512"
+    },
+    "System.Reflection.TypeExtensions/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BWYdrACMy1Sbq7Kh1oISS+2qKX1dHhXNpRByG3c6M9i2fhU9BZqO3nFYIabmbZuQwd7svR5zfxNHgmgv2XkkIg==",
+      "path": "system.reflection.typeextensions/4.4.0",
+      "hashPath": "system.reflection.typeextensions.4.4.0.nupkg.sha512"
+    },
+    "xunit.runner.visualstudio/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YzGgYTlfqjqJUazkZ17ffy9yVzhQoDWWS1+wr4An4SV5MtaH3Lbx7tIoFRcjslKe5yAOpV4LDh5LL4tXMwnaHA==",
+      "path": "xunit.runner.visualstudio/2.1.0",
+      "hashPath": "xunit.runner.visualstudio.2.1.0.nupkg.sha512"
+    }
+  }
+}

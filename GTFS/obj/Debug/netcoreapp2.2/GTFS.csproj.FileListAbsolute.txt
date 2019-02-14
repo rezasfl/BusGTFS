@@ -1,0 +1,14 @@
+C:\Users\rez\source\repos\GTFS\GTFS\bin\Debug\netcoreapp2.2\GTFS.deps.json
+C:\Users\rez\source\repos\GTFS\GTFS\bin\Debug\netcoreapp2.2\GTFS.runtimeconfig.json
+C:\Users\rez\source\repos\GTFS\GTFS\bin\Debug\netcoreapp2.2\GTFS.runtimeconfig.dev.json
+C:\Users\rez\source\repos\GTFS\GTFS\bin\Debug\netcoreapp2.2\GTFS.dll
+C:\Users\rez\source\repos\GTFS\GTFS\obj\Debug\netcoreapp2.2\GTFS.csprojAssemblyReference.cache
+C:\Users\rez\source\repos\GTFS\GTFS\obj\Debug\netcoreapp2.2\GTFS.csproj.CoreCompileInputs.cache
+C:\Users\rez\source\repos\GTFS\GTFS\obj\Debug\netcoreapp2.2\GTFS.AssemblyInfoInputs.cache
+C:\Users\rez\source\repos\GTFS\GTFS\obj\Debug\netcoreapp2.2\GTFS.AssemblyInfo.cs
+C:\Users\rez\source\repos\GTFS\GTFS\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.testadapter.dll
+C:\Users\rez\source\repos\GTFS\GTFS\bin\Debug\netcoreapp2.2\xunit.runner.utility.desktop.dll
+C:\Users\rez\source\repos\GTFS\GTFS\bin\Debug\netcoreapp2.2\xunit.abstractions.dll
+C:\Users\rez\source\repos\GTFS\GTFS\bin\Debug\netcoreapp2.2\GTFS.pdb
+C:\Users\rez\source\repos\GTFS\GTFS\obj\Debug\netcoreapp2.2\GTFS.dll
+C:\Users\rez\source\repos\GTFS\GTFS\obj\Debug\netcoreapp2.2\GTFS.pdb
